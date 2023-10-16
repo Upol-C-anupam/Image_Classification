@@ -1,0 +1,6 @@
+logs
+.ipynb_checkpoints
+models
+icenv
+data
+*.jpg
